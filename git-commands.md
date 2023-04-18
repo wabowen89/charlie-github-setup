@@ -10,3 +10,5 @@
 ## Making Changes
 - code .  //opens all files within current folder in VSCode
 
+## Just testing a change
+- access KeyChain app to change your password to your token lkjhlkj
